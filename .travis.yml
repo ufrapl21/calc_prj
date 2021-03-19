@@ -1,0 +1,10 @@
+language: python
+
+python:
+  - "3.8"
+
+script:
+  - pytest tests.py
+
+notifications:
+  email: ufrapl21@gmail.com
